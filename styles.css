@@ -8,6 +8,11 @@ a {
    font-size: 12px;
 }
 
+h1{
+   color: darkblue;
+   padding: 8px;
+   text-shadow: gray 5px 5px 6px;
+}
 body{
 
    font-family: Arial, Helvetica, sans-serif;
